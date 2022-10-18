@@ -2,6 +2,8 @@
 
 ## 一. 下载与安装
 
+1. https://git-scm.com/downloads进入后选择版本，下载安装
+
 ## 二. Git初始化
 
 1. `git config --global user.name "SedateAiot"`
