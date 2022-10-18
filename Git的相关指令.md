@@ -47,7 +47,7 @@
 4. 然后使用这个命令把内容推送给github的库`git push -u origin master/main`
    1. 这里需要注意，github上面创建的文件夹名称，后面统一用main
 5. 以后更新就用`git push origin master`
-6. 如果仓库写错了，可以用`git remote re <name>`，使用前可以先看远程库的信息
+6. 如果仓库写错了，可以用`git remote rm <name>`，使用前可以先看远程库的信息
    1. `git remote -v`
 
 ## 七. 分支管理
@@ -151,3 +151,4 @@ git branch
    这就是多人协作的工作模式，一旦熟悉了，就非常简单。
 
    
+
